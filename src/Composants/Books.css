@@ -1,0 +1,100 @@
+div.polaroid {
+    width: 20%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.6);
+    margin-bottom: 25px;
+  }
+  
+  div.container {
+    text-align: center;
+    padding: 10px 20px;
+  }
+  input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 4px 8px 0 rgba(96, 44, 2, 0.6), 0 6px 20px 0 rgba(96, 44, 2, 0.6) ;
+    font-family: monospace;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rgb(96, 44, 2);
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: monospace;
+  }
+  
+  button:hover {
+    background-color: #d8a732;
+  }
+  h2 {
+    margin-bottom: 20px;
+    font-family: monospace;
+  }
+  
+  h3 {
+    margin-bottom: 10px;
+    font-family: monospace;
+  }
+  
+  .form-container {
+    margin-bottom: 20px;
+  }
+  
+  .list-container {
+    margin-bottom: 40px;
+  }
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .book-card {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgb(96, 44, 2,1);
+    margin-bottom: 20px;
+  }
+  
+  .book-card img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .book-card h3 {
+    margin-bottom: 10px;
+  }
+  
+  .book-card p {
+    margin-bottom: 10px;
+  }
+  .book-card {
+    position: relative;
+  }
+  
+  .book-card button {
+    padding: 5px 10px; /* Ajuste la taille du bouton */
+    font-size: 14px; /* Ajuste la taille de la police du bouton */
+    position: absolute;
+    top: 10px; /* Positionne le bouton en haut */
+    right: 10px; /* Positionne le bouton à droite */
+  }
+  .book-card {
+    font-family: "Helvetica Neue", Arial, sans-serif; /* Exemple de police */
+  }
+  
+  .book-card h3 {
+    font-family: "Times New Roman", serif; /* Exemple de police */
+  }
+  .Books {
+    background: linear-gradient(to bottom, #ffecd2, #fcb69f); /* Remplace les couleurs par celles de ton choix */
+  }
+  
+  

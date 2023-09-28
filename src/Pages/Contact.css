@@ -1,0 +1,9 @@
+.contact-container {
+    background-image: url('/public/images/img2.png');
+    background-size: cover;
+    background-position: center;
+    height: 95vh;
+    width: 100vw;
+    filter: brightness(180%);
+  }
+  

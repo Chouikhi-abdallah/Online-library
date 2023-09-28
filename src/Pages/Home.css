@@ -1,0 +1,9 @@
+.home-container {
+    background-image: url('/public/images/img1.png');
+    background-size: cover;
+    background-position: center;
+    height: 94vh;
+    filter: brightness(120%);
+  
+  }
+  
